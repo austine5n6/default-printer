@@ -1,6 +1,6 @@
 {
   "name": "default-printer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Node.js module for getting the default printer on Windows using Python.",
   "main": "index.js",
   "keywords": [

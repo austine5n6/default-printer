@@ -15,6 +15,7 @@ npm install default-printer
 To use this package, it should be included in a async function as shown below;
 
 ```javascript
+const printer = require('default-printer');
   async function test() {
       try {
     const default_printer = await printer.getDefaultPrinter();
